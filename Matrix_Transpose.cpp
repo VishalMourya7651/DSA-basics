@@ -18,7 +18,7 @@ int main(){
             cin>>a[i][j];
         }
     }
-    cout<<"Element in 2D array are:\n";
+    cout<<"Transpose of array are:\n";
      for(int i=0;i<y;i++){
         for(int j=0;j<x;j++){
             cout<<a[j][i]<<" ";
